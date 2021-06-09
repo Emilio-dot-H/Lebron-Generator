@@ -24,9 +24,9 @@ The 1st and 3rd letter of every word must always be capitalized.
 ## Creating a Windows EXE file of the application
 
 Upload the 'Lebron Generator' file to your machine. Inside of the file on your command line:
-'''
+```
 pip install PySimpleGUI
 pip install PyInstaller
 pyinstaller -wF display.py
-'''
+```
 You will be left with a single file, display.exe, located in a folder named dist under the folder where you executed the pyinstaller command.
