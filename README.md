@@ -12,7 +12,7 @@ The 1st and 3rd letter of every word must always be capitalized.
 
 * If the 2nd letter in the word is an 'e': Replace the first letter of the word with the letter 'L'. (i.e. Refrigerated --> LeFrigerated)
 * If the 1st letter in the word is a 'b': Add 'Le' to the beginning of the word. (i.e. Banana --> LeBanana)
-* If the 1st letter in the word is an 'e': Add 'L' to the beginning og the word. (i.e. Elephant --> LeLephant)
+* If the 1st letter in the word is an 'e': Add 'L' to the beginning of the word. (i.e. Elephant --> LeLephant)
 * Else: Add 'Le' to the front of the word.
 
 ## View
